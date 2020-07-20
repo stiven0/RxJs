@@ -1,6 +1,6 @@
 # RXJS
 
-* En este repositorio encontraremos los principales operadores y funcionalidades de la libreria RxJs [RXJS](https://rxjs-dev.firebaseapp.com/api)
+* En este repositorio encontraremos los principales operadores y funcionalidades de la libreria [RXJS](https://rxjs-dev.firebaseapp.com/api)
 
 ## Lo primero que debemos de hacer después de descargar el código es correr el comando:
 
